@@ -1,0 +1,103 @@
+*{
+  padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.menu{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-top:70px;
+  font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu h1{
+  font-weight: 300;
+  border-bottom: 5px solid #F59E0B;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  gap:15px;
+  text-align: center;
+  padding-top: 30px;
+}
+.btn button{
+  border: none;
+  padding:5px 13px;
+  background-color: #F59E0B;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+}
+.card{
+  height: auto;
+  width: 23%;
+  background-color: rgb(254, 253, 252);
+  box-shadow: 1px 3px 5px 1px rgb(232, 227, 227);
+
+}
+.card img{
+  width: 100%;
+  height: auto;
+  border-radius:5px;
+  aspect-ratio: 4/3;
+}
+.cards{
+  width: 100%;
+  display: flex;
+  flex-wrap:wrap;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.price{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.price h1{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.price h5{
+  background-color: #F59E0B;
+  padding: 5px 15px;
+  border-radius: 5px;
+  color: white;
+}
+.card p{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(92, 88, 88);
+  padding: 10px 10px;
+  line-height: 30px;
+}
+
+
+@media only screen and (max-width:1100px){
+  .card{
+    width:40%;
+  }
+  .menu{
+    padding: 60px 170px;
+  }
+}
+@media only screen and (max-width:700px){
+  .card{
+    width:80%;
+  }
+  .menu{
+    padding: 60px 170px;
+  }
+}
+@media only screen and (max-width:400px){
+  .card{
+    width:90%;
+  }
+  .menu{
+    padding: 60px 170px;
+  }
+}

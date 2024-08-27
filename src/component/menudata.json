@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "img": "../src/images/one.jpeg",
+        "title": "Buttermilk Pancakes",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"Breakfast"
+    },
+    {
+        "id": "2",
+        "img": "../src/images/two.jpeg",
+        "title": "Diner Double",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"Lunch"
+    },
+    {
+        "id": "3",
+        "title": "Godzilla Milkshake",
+        "img": "../src/images/three.jpeg",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"shakes"
+    },
+    {
+        "id": "4",
+        "img": "../src/images/four.jpeg",
+        "title": "Country Delight",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"Breakfast"
+    },
+    {
+        "id": "5",
+        "img": "../src/images/five.jpeg",
+        "title": "Egg Attack",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"Lunch"
+    },
+    {
+        "id": "6",
+        "img": "../src/images/six.jpeg",
+        "title": "Oreo dream",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"shakes"
+    },
+    {
+        "id": "7",
+        "img": "../src/images/seven.jpeg",
+        "title": "Bacon Overflow",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"Breakfast"
+    },
+    {
+        "id": "8",
+        "img": "../src/images/eight.jpeg",
+        "title": "American Classic",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"Lunch"
+    },
+    {
+        "id": "9",
+        "img": "../src/images/nine.jpeg",
+        "title": "Quarantine Buddy",
+        "price": "15.99",
+        "des": "I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I m baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+        "catg":"shakes"
+    }
+]
